@@ -5,5 +5,7 @@
 - type of compressor
 - wanted friction of the moving platform 
 -> distance between holes, different drawing in both designs (small and big table)
+  -> bigger table seems to have way less air holes but bigger ones
+  
 
 
