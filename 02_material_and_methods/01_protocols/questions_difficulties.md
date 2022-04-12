@@ -9,7 +9,8 @@
   
 ### Solutions in Paper
 - for 20 x 24 x 3 cm they used 300kPa (ca. 45 psi) & 1mm holes each 8 mm
-- working surface is 16 x 20 cm and circular platform 15 cm in diameter and 3 mm thick with plus maze on top and 180 gramms in weight
+  - working surface is 16 x 20 cm 
+- circular platform 15 cm in diameter and 3 mm thick with plus maze on top and 180 gramms in weight
 
 
 ## 20200408 Plexiglas
