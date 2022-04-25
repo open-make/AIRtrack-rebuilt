@@ -26,3 +26,7 @@
 
 ## 004 Arduino microprocessor
 - build inside the arduino uno? required for pixy cam 
+
+## 005 linear acuator
+- only 100 mm and 140 mm available on rs.de
+- on firgelli themselves also not exact the same as in paper
