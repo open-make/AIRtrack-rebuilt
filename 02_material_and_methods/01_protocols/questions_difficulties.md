@@ -24,3 +24,5 @@
 - accessability of the CAD files
 
 
+## 004 Arduino microprocessor
+- build inside the arduino uno? required for pixy cam 
