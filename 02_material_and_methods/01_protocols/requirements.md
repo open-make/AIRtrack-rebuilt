@@ -9,7 +9,7 @@
 - active buzzer module (KY-012; KEYES DIY)
 - 2 solenoids (2-way normally closed pinch valves; Bio-Chem Fluidics)
 - H Bridge(L293D)
-- 3v or 5v white rectangle-shaped LED
+- 3v or 5v white rectangle-shaped LED (should be no need to buy)
 - 12-V direct current (DC) power supply (for linear actuator and solenoids)
 
 
