@@ -13,6 +13,7 @@
 ## Rewarding system
 - 50-mm linear actuator with position feedback (model L16 50N 35:1 12V; Firgelli Technologies)
 - capacitive touch sensor module (MPR121; Freescale Semiconductors)
+  - sensor for interaction of the rodent
 - 2 solenoids (2-way normally closed pinch valves; Bio-Chem Fluidics)
 - active buzzer module (KY-012; KEYES DIY)
 
