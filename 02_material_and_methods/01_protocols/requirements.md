@@ -3,11 +3,15 @@
 ## Central computition devices
 
 - Arduino-Uno microcontroller (www.arduino.cc)
-## Tracking of plattform movement
-- Pixy CMUcam5 by Carnegie Mellon University and Charmed Labs
 - ? H Bridge(L293D)
+
+## Power supply
+
 - 12-V direct current (DC) power supply (for linear actuator and solenoids, routed via H Bridge)
 
+
+## Tracking of plattform movement
+- Pixy CMUcam5 by Carnegie Mellon University and Charmed Labs
 
 
 ## Rewarding system
