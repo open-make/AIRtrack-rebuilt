@@ -32,7 +32,9 @@
 - on firgelli themselves also not exact the same as in paper
 
 
-### Struggeling to find the exact components
+## 006 Struggeling to find the exact components
   - Freescale Semiconductors MPR121 not longer manufactured
   - KY-012 by Keyes DIY seems rare, maybe soon discontinued
-  -  
+  
+### 006 
+  - mpr121 not disconntiued but not very reliable
