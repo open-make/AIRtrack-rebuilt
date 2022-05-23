@@ -39,7 +39,7 @@
 - 1x frame to plexi screws (if plexi 1 cm thick) https://de.rs-online.com/web/p/innensechskantschrauben/1838676
 - 5x at https://de.misumi-ec.com/vona2/detail/110300209240/ productnr: ETKLS12-200-F10-SC0-M5-N[5,​6,​8]
 - 1x bar https://de.rs-online.com/web/p/metallstangen-und-stabe/1243623
-- 1x connecting bars (not ideal) https://de.rs-online.com/web/p/verbindungselemente/4565961 c
+- 1x connecting bars (not ideal) https://de.rs-online.com/web/p/verbindungselemente/4565961 , sth like this is better but not available for 12mm
 - 
 
 
