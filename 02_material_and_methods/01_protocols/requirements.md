@@ -29,7 +29,7 @@
 
 ## Base contruction
 - 480x366 mm² or 200x200 mm² 
--  
+
 ### 200 x 200 mm²
 - for 20 x 24 x 3 cm they used 1mm holes each 8 mm
 - working surface is 16 x 20 cm and circular platform 15 cm in diameter and 3 mm thick with a plus maze on top
@@ -39,9 +39,9 @@
 - headfixation with bar for placement
 
 #### List for base construction:
--aluminium frames 2cm
--nuts and screws complementary to the nuts
--angles for the aluminums frames
+- aluminium frames 2cm
+- nuts and screws complementary to the nuts
+- angles for the aluminums frames
 
 
 
