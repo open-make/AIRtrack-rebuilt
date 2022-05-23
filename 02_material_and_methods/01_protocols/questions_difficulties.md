@@ -43,6 +43,6 @@
   - mpr121 not disconntiued but not very reliable
 
 
-## connection from sticks to apperatur
+## 007 connection from sticks to apperatur
 - how to connect the apperatur to the moveable arms
 - depending on the apperature
