@@ -38,4 +38,10 @@
 - aluminium stick as framework
 - headfixation with bar for placement
 
+#### List for base construction:
+-aluminium frames 2cm
+-nuts and screws complementary to the nuts
+-angles for the aluminums frames
+
+
 
