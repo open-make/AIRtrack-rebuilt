@@ -29,6 +29,7 @@
 
 
 ### Construction:
+
 - glue for plexiglas https://www.modulor.de/acrifix-192-acryl-kleber-tube-100-g.html
 - screws in plexiglas, quanitity 100 https://www.heimwerkertools.com/baubeschlaege/schrauben-zubehoer/schrauben-und-naegel/senkkopf/3183/haefele-spanplattenschrauben-hospa-oe-3-0mm-kreuzschlitz-vollgewinde-verzinkt-senkkopf-verschiedene-l?number=&c=686
 - 1x aluminium frames 2cm x 2cm x 2 m   (maybe no need, Mostafa checks availability) https://de.rs-online.com/web/p/rohre-und-strebenprofile/8508470
@@ -36,10 +37,9 @@
 - 1x  frame angle  https://de.rs-online.com/web/p/verbindungselemente/1809136
 - 1x frame screws https://de.rs-online.com/web/p/innensechskantschrauben/8229170
 - 1x frame to plexi screws (if plexi 1 cm thick) https://de.rs-online.com/web/p/innensechskantschrauben/1838676
-
-
-
-
+- 5x at https://de.misumi-ec.com/vona2/detail/110300209240/ productnr: ETKLS12-200-F10-SC0-M5-N[5,​6,​8]
+- 1x https://de.rs-online.com/web/p/metallstangen-und-stabe/1243623
+- 
 
 
 
