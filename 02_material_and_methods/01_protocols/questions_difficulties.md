@@ -46,3 +46,10 @@
 ## 007 connection from sticks to apperatur
 - how to connect the apperatur to the moveable arms
 - depending on the apperature
+
+
+## 008 decisions regarding components 
+- which to choose
+- linear accuator
+- where plexiglas from 
+- which power supply
