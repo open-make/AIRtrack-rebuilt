@@ -48,8 +48,8 @@
 - depending on the apperature
 
 
-## 008 decisions regarding components 
-- which to choose
+## 008 decisions regarding components / which to choose
+- solenoids
 - linear accuator
 - where plexiglas from 
 - which power supply
