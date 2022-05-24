@@ -40,7 +40,7 @@
 - 5x at https://de.misumi-ec.com/vona2/detail/110300209240/ productnr: ETKLS12-200-F10-SC0-M5-N[5,​6,​8]
 - 1x bar https://de.rs-online.com/web/p/metallstangen-und-stabe/1243623
 - 5x for connecting bars https://de.rs-online.com/web/p/verbindungselemente/7866071
-
+- 1x moveable arm https://de.rs-online.com/web/p/messstander-und-stativarme/2643542
 
 
 
