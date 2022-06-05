@@ -1,20 +1,15 @@
-# Project title
+# Airtrack-rebuild
 
 ## Abstract
+Within the open.make project we aim to provide openhardware by ourselfs. Therefore we construct the Airtrack with the goal develop rebuild instructions. The Airtrack was first published in the paper titled Air-Track: a real-world floating environment for active sensing in head-fixed mice in Journal of Neurophysiology 1st October 2016 Vol. 116. 
+In this repository the reconstruction of the airtrack is documented. 
 
 ## Contributors
-
-- jane doe, jane.doe@example.com, https://orcid.org/XXXX-XXXX-XXXX-XXXX
-
-[Please mention your contributors either by including a contributors list here, or by referring to another file that lists your contributors, see documentation for options and examples.]
 
 ## List of experiments
 
 ## Direct links (inside or outside this repository)
 
-- todo list: [use issues](../../issues)
-- data management plan: [01_project_management/05_data_management_plans](01_project_management/05_data_management_plans)
-- Smartfigure tag: [YOURTAG](https://sdash.sourcedata.io/?q=YOURTAG) : replace YOURTAG in the url and the text.
 
 ## Other information
 
