@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1671.6">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    li.li1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    span.s1 {font-kerning: none}
+    span.s2 {font: 18.0px Times; font-kerning: none}
+    span.s3 {-webkit-text-stroke: 0px #000000}
+    span.s4 {font-kerning: none; -webkit-text-stroke: 0px #000000}
+    ul.ul1 {list-style-type: disc}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">--- layout: default title: Transcript of difficulties and problems ---</span></p>
+<h2 style="margin: 0.0px 0.0px 14.9px 0.0px; line-height: 22.0px; font: 13.3px Arial; color: #000000; -webkit-text-stroke: #000000"><span class="s2"><b>Categories of difficulties: </b></span><span class="s1">Original Documentation, Ordering, Manufacturing</span></h2>
+<p class="p1"><span class="s1">{% assign issue_table = site.data.issue_table %} {% assign issue_table = issue_table | sort:“Typ“ %} {% for issue_table in issue_table %}</span></p>
+<ul class="ul1">
+  <li class="li1"><span class="s3"><b></b></span><span class="s1"><b>{{ </b>issue_table.Typ<b> }}</b> ({{ issue_table.Problem }}, {{ </span><span class="s4">issue_table.Details</span><span class="s1"> }}, {{ issue_table.Solution }})</span></li>
+</ul>
+<p class="p1"><span class="s1">{% endfor %}<span class="Apple-converted-space"> </span></span></p>
+</body>
+</html>
