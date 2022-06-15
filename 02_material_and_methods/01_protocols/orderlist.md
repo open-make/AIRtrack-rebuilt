@@ -16,7 +16,7 @@
 
 - Keyes DIY KY-012 https://de.aliexpress.com/item/32816721769.html?aff_fcid=dbb60528572745a9ac0787a7403f897f-1651112003196-06651&aff_fsk&aff_platform=api-new-product-query&sk&aff_trace_key=dbb60528572745a9ac0787a7403f897f-1651112003196-06651&terminal_id=c3fe0c0a7e284a458624de73aaa29e49&afSmartRedirect=y&gatewayAdapt=glo2deu
  
- -2x 2-way normally closed pinch valves (ID & OD depending, unknown) https://www.lab-club.com/epages/mss.sf/en_GB/?ChannelID=25408&ObjectID=17590&ViewAction=Innochange_FactFinderSearch&catalog=true&filterCatIDs=17590&filterConfiguration=2-way%2C+NC&filterPrice_Currency=EUR~~%E2%82%AC&filterVoltage=12+V&page=&query=%2A
+ - 2x 2-way normally closed pinch valves (ID & OD depending, unknown) https://www.lab-club.com/epages/mss.sf/en_GB/?ChannelID=25408&ObjectID=17590&ViewAction=Innochange_FactFinderSearch&catalog=true&filterCatIDs=17590&filterConfiguration=2-way%2C+NC&filterPrice_Currency=EUR~~%E2%82%AC&filterVoltage=12+V&page=&query=%2A
     - with OD 2,4mm & ID 0,8 mm  https://www.lab-club.com/2-way-NC-pinch-valve-type-075P2NC12-01S 
  - LED 5V eg if buy https://www.digikey.de/de/products/detail/lumex-opto-components-inc/SSL-LX3044ID-5V/270866
 
