@@ -1,1 +1,9 @@
-Type	Problem/ Difficulties	Details	Solution
+Type	Problem/ Difficulties	Details	Solution	Solved?
+Original Documentation	Unknown specifics about relation of air pressure and hole size,	Unknown type of compressor, wanted friction on the plattform, confusion about designs (smaller seem to have more holes/ bigger less holes)	"For 20 x 24 x 3cm: 300kPa (ca. 45psi) & 1 mm holes each 8mm; circular plattform 15 cm in diameter and 3 mm thick with plus maze on top 180g in weight; Workshop: all calculated need to stick to the concept"	y
+Original Documentation	Plexiglas thickness	determines the glueing surface and pressure resistance	Mostafa recommended 1 cm	y
+Original Documentation	3D Prinitng	used materials because of stiffness and weight, accessability of cad files		
+Construction	Arduino microprocessor	inside arduino uno? required for pixy cam	should be, pixy cam webiste recommends pixy cam 2: faster and smaller	y
+Ordering	Linear acuator 	on rs only 100 and 140 mm available 	firgelli technologies is now acutonix 	y
+Component quality	mpr121	not reliable		
+Construction	connection from sticks to apperatur			
+Ordering	decisions regarding ordering	solenoids, where plexiglas from, which power supply		
