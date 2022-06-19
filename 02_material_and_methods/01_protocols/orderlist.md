@@ -39,5 +39,25 @@
 - 5x for connecting bars https://de.rs-online.com/web/p/verbindungselemente/7866071
 - 1x moveable arm https://de.rs-online.com/web/p/messstander-und-stativarme/2643542
 
+### Measurement of the plexiglasbox:
+
+#### 20x24x3 ( as in Paper, on the website is 20x 20): 
+all in cm and 1 cm thick:
+- 2 times: 24x 20
+- 2 times: 24x1
+- 2 times: 18x1
+
+20x20x3 (no info on height on website):
+all in cm and 1 cm thick:
+- 2 times: 20x 20
+- 2 times: 20x1
+- 2 times: 18x1
+
+#### 480x326x70 (from website):
+all in mm and 1 cm thick
+
+- 2 times: 480x326
+- 2 times 480x50
+- 2 times: 305,6(?)x 5
 
 

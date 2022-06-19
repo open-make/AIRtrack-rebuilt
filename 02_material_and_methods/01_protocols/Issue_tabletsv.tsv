@@ -3,7 +3,8 @@ Original Documentation	Unknown specifics about relation of air pressure and hole
 Original Documentation	Plexiglas thickness	determines the glueing surface and pressure resistance	Mostafa recommended 1 cm	y
 Original Documentation	3D Prinitng	used materials because of stiffness and weight, accessability of cad files		
 Construction	Arduino microprocessor	inside arduino uno? required for pixy cam	should be, pixy cam webiste recommends pixy cam 2: faster and smaller	y
-Ordering	Linear acuator 	on rs only 100 and 140 mm available 	firgelli technologies is now acutonix 	y
+Ordering	Linear acuator 	on rs only 100 and 140 mm available	firgelli technologies is now acutonix 	y
 Component quality	mpr121	not reliable		
 Construction	connection from sticks to apperatur			
 Ordering	decisions regarding ordering	solenoids, where plexiglas from, which power supply		
+Construction	valve for inflowing air	unknown component		
