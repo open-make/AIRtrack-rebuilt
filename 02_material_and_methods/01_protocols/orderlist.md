@@ -28,7 +28,7 @@
 ### Construction:
 
 - glue for plexiglas https://www.modulor.de/acrifix-192-acryl-kleber-tube-100-g.html
-- screws in plexiglas, quanitity 100 https://www.heimwerkertools.com/baubeschlaege/schrauben-zubehoer/schrauben-und-naegel/senkkopf/3183/haefele-spanplattenschrauben-hospa-oe-3-0mm-kreuzschlitz-vollgewinde-verzinkt-senkkopf-verschiedene-l?number=&c=686
+- screws in plexiglas, quanitity 100 https://de.rs-online.com/web/p/holzschrauben/1443525
 - NOT NEDDED: (1x aluminium frames 2cm x 2cm x 2 m   (maybe no need, Mostafa checks availability) https://de.rs-online.com/web/p/rohre-und-strebenprofile/8508470)
 - 3x or more aluminium framesnuts(M5, 12mm long) 3x 10 nuts or more  https://de.rs-online.com/web/p/verbindungselemente/1809104
 - 1x  frame angle  https://de.rs-online.com/web/p/verbindungselemente/1809136
