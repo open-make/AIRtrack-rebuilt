@@ -34,7 +34,7 @@
 - 1x  frame angle  https://de.rs-online.com/web/p/verbindungselemente/1809136
 - 1x frame screws https://de.rs-online.com/web/p/innensechskantschrauben/8229170
 - 1x frame to plexi screws (if plexi 1 cm thick) https://de.rs-online.com/web/p/innensechskantschrauben/1838676
-- 5x at https://de.misumi-ec.com/vona2/detail/110300209240/ productnr: ETKLS12-200-F10-SC0-M5-N5
+- 3x at https://de.misumi-ec.com/vona2/detail/110300209240/ productnr: ETKLS12-200-F10-SC0-M5-N5
 - 1x bar https://de.rs-online.com/web/p/metallstangen-und-stabe/1243623
 - 5x for connecting bars https://de.rs-online.com/web/p/verbindungselemente/7866071
 - 1x moveable arm https://de.rs-online.com/web/p/messstander-und-stativarme/2643542
