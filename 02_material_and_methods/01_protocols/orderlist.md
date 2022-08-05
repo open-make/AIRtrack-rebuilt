@@ -18,6 +18,7 @@
  
  - 2x 2-way normally closed pinch valves (ID & OD depending, unknown) https://www.lab-club.com/epages/mss.sf/en_GB/?ChannelID=25408&ObjectID=17590&ViewAction=Innochange_FactFinderSearch&catalog=true&filterCatIDs=17590&filterConfiguration=2-way%2C+NC&filterPrice_Currency=EUR~~%E2%82%AC&filterVoltage=12+V&page=&query=%2A
     - with OD 2,4mm & ID 0,8 mm  https://www.lab-club.com/2-way-NC-pinch-valve-type-075P2NC12-01S 
+    - along wth that in quartzy are already all clamps and a role of valve
  - LED 5V eg if buy https://www.digikey.de/de/products/detail/lumex-opto-components-inc/SSL-LX3044ID-5V/270866
 
 ### power suply:
