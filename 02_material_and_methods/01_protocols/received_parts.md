@@ -2,10 +2,11 @@
 ## Airtable nicht zusammen gebaut:
 - 1 langer Schlau und zwei kurze für Zuluft - Rehau Rauclair -E  7/2 7x11 1966/B Rehau AG
 - seitliche barrieren und fixierung (bei längseite mit winkel and frame, stirnseite direkt in frame ende von längsseite)
-- Kugeln für die Löcher auf der Oberseite mit Fixierungszylinder - keine bezeichnung
+- Kugeln für die Löcher auf der Oberseite mit Fixierungszylinder (d außen ca. 0.8cm) - keine bezeichnung
 - Adapter für zuluft zur Airtable box und Y zusammenführung zwischen den schläuchen
 - adapter für überdruckventil (499-2931, 1/4 Inch 150lb, Made in china, ctb 64 29317487)
 - überdruk ventil (made in japan, 2108443, ap100-02, apa06, smc (firma?), eac, zw)
+- 
 
 ## Airtable zumsammengebaut enthält:
 
