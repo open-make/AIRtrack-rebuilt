@@ -42,6 +42,7 @@
 
 ### Measurement of the plexiglasbox:
 
+Mostafa recommended 1 cm and workshop used 0,8cm
 #### 20x24x3 ( as in Paper, on the website is 20x 20): 
 all in cm and 1 cm thick:
 - 2 times: 24x 20
@@ -61,4 +62,15 @@ all in mm and 1 cm thick
 - 2 times 480x50
 - 2 times: 305,6(?)x 5
 
+
+## 2nd ordering:
+
+1x bar: https://de.rs-online.com/web/p/metallstangen-und-stabe/1368732
+1x frame screw 8mm: https://de.rs-online.com/web/p/innensechskantschrauben/4839571
+1x nuts https://de.rs-online.com/web/p/verbindungselemente/1809103
+1x screws: https://de.rs-online.com/web/p/innensechskantschrauben/2328186
+1x gaffa: https://de.rs-online.com/web/p/panzerband/1466828
+1x klebeband: https://at.rs-online.com/web/p/schaumstoff-klebebander/1848204
+3x schleifschwam: https://www.ud-shop.de/schleifschwamm-holz-metall-kwb-089121.html
+1x frame screw 6mm: https://de.rs-online.com/web/p/innensechskantschrauben/8229164
 

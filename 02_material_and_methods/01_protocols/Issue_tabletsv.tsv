@@ -15,5 +15,10 @@ Construction	unknown specifics about headfixation	whats a common head fixation, 
 Documentations	how about sources of pictures at the website			
 construction	dropping protection needed			
 construction	exact parameters of the  platform	unknown print parameters which change surface shape and density/weight	Up to now I used the standard of the flash forge and a raft	
-construction	 steel rods a minimal to think for connector	in rods used to position do not fit in connectors, difference less than 1mm 	order new rods?	
+construction	 steel rods a minimal to think for connector	in rods used to position do not fit in connectors, difference less than 1mm, order new rods?		
 construction	screws for nuts don t fit through the angles of the framework		order one new package for one test try, the rest I will drill bigger holes inside	
+3D printing	inner bottom edge circle print lines move to the center	trying to change non orthogonal to orthogonal edges		
+3D printing	platform wall holders need to be more stable 	relativly esay to break wall holders, even with infill 60 and , possible solution: add volume to wall holders in CAD?		
+construction	workshop only used 0,8 mm plexiglas	instead of 1 cm as mostafa suggested		
+constructions	unkown method of making the surface of plexiglas roough			
+3D printing	diameter of large platform is 30cm	flashforge has a print size of 300mm x250mm x200mm, 5 cm to less in one dimenson		
