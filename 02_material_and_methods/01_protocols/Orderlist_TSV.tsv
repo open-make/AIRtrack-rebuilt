@@ -1,0 +1,27 @@
+Order Batch	Quantity	vendor	Component	Link	Product number	Y	Arrived
+1	3	Misumi	Rod with Thread	https://de.misumi-ec.com/vona2/detail/110300209240/?HissuCode=ETKLS12-200-F10-SC0-M5-N5&Keyword=ETKLS12-200-F10-SC0-M5-N5&PNSearch=ETKLS12-200-F10-SC0-M5-N5&searchFlow=suggest2products	ETKLS12-200-F10-SC0-M5-N5	Y	
+1	3	Misumi	Rod with Thread	https://de.misumi-ec.com/vona2/detail/110300209240/?HissuCode=ETKLS10-200-F10-SC0-M5-N5&Keyword=ETKLS12-200-F10-SC0-M5-N5&PNSearch=ETKLS12-200-F10-SC0-M5-N5&searchFlow=suggest2products	ETKLS10-200-F10-SC0-M5-N5	Y	
+1	2	Reichelt	Aktives Piezo-Buzzer Modul	https://www.reichelt.de/de/de/entwicklerboards-aktives-piezo-buzzer-modul-debo-piezo-p239111.html?PROVID=2788&&r=1	DEBO PIEZO	Y	y
+1	4	Reichelt	MPR121	https://www.reichelt.de/entwicklerboards-platine-fuer-kapazitive-beruehrungssensoren-mp-debo-touch-sens2-p291455.html?&trstct=pos_0&nbc=1	DEBO TOUCH SENS2	Y	y
+1	1	Digi-Key	SSL-LX3044ID-5V	https://www.digikey.de/de/products/detail/lumex-opto-components-inc/SSL-LX3044ID-5V/270866	67-1068-ND	y	y/n
+1	1	Digi-Key	PixyCam	https://www.digikey.de/de/products/detail/dfrobot/SEN0265/9559245	1738-1426-ND	y	
+1	1	Digi-Key	Arduino Uno	https://www.digikey.de/de/products/detail/arduino/A000066/2784006	1050-1024-ND	Y	
+1	1	Reichelt	hbridge L 293 D	https://www.reichelt.de/push-pull-ttl-logik-4-kanal-treiber-0-6-aout-dip-16-l-293-d-p9661.html?search=L293D	L 293 D	Y	y
+1	2	Conrad	Acrifix 192	https://www.conrad.de/de/p/acrifix-192-acrylglaskleber-539813-100-g-539813.html	539813	Y	y
+1	2	Workshop Charite	Airtrack 480x326			Y	y
+1	1	Biozol	Silicon tube	Silicon Select tubing, type 10025-01S, 50 feet = approx. 15.2 m	10025-01S	Y	
+1	2	Biozol	pinch valve	https://www.lab-club.com/2-way-NC-pinch-valve-type-075P2NC12-01S	075P2NC12-01S	Y	
+1	2	Biozol	mounting clip	https://www.lab-club.com/Mounting-clip-for-type-075-valves	MC-075	Y	y
+1	2	Biozol	mounting ring	https://www.lab-club.com/Mounting-ring-for-type-075-valves	MR-075	Y	y
+1		Robotshop oder noDNA	Actuonix linear actuator	https://www.robotshop.com/de/de/actuonix-l16-linearantrieb-351-50mm-12v-mit-potentiometer-ruckmeldung-.html	L16-50-35-12-P	y	y
+1	1	RS components	Sechskantmuttern	https://de.rs-online.com/web/p/sechskantmuttern/0525903	052-5903	Y	y
+1	1	RS components	Gewindestangen	https://de.rs-online.com/web/p/gewindestangen-stehbolzen/0530315	053-0315	Y	y
+1	1	RS components	Unterlegscheiben	https://de.rs-online.com/web/p/unterlegscheiben/0525931	052-5931	Y	y
+1	1	RS components	Holzschrauben	https://de.rs-online.com/web/p/holzschrauben/1443525	144-3525	Y	y
+1	3	RS components	Verbindungselemente	https://de.rs-online.com/web/p/verbindungselemente/1809104	180-9104	Y	y
+1	1	RS components	Verbindungselemente	https://de.rs-online.com/web/p/verbindungselemente/1809136	180-9136	Y	y
+1	1	RS components	Innensechskantschrauben	https://de.rs-online.com/web/p/innensechskantschrauben/8229170	822-9170	y	y
+1	1	RS components	Innensechskantschrauben	https://de.rs-online.com/web/p/innensechskantschrauben/1838676	183-8676	Y	y
+1	1	RS components	Metallstangen	https://de.rs-online.com/web/p/metallstangen-und-stabe/1243623	124-3623	Y	y
+1	4	RS components	Verbindungselemente	https://de.rs-online.com/web/p/verbindungselemente/7866071	786-6071	Y	y
+1	1	RS components	Stativarm	https://de.rs-online.com/web/p/messstander-und-stativarme/2643542	264-3524	Y	y
