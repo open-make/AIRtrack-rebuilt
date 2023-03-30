@@ -1,6 +1,6 @@
 Order Batch	Quantity	vendor	Component	Link	Product number	Y	Arrived
-1	3	Misumi	Rod with Thread	https://de.misumi-ec.com/vona2/detail/110300209240/?HissuCode=ETKLS12-200-F10-SC0-M5-N5&Keyword=ETKLS12-200-F10-SC0-M5-N5&PNSearch=ETKLS12-200-F10-SC0-M5-N5&searchFlow=suggest2products	ETKLS12-200-F10-SC0-M5-N5	Y	
-1	3	Misumi	Rod with Thread	https://de.misumi-ec.com/vona2/detail/110300209240/?HissuCode=ETKLS10-200-F10-SC0-M5-N5&Keyword=ETKLS12-200-F10-SC0-M5-N5&PNSearch=ETKLS12-200-F10-SC0-M5-N5&searchFlow=suggest2products	ETKLS10-200-F10-SC0-M5-N5	Y	
+1	3	Misumi	Rod with Thread	https://de.misumi-ec.com/vona2/detail/110300209240/?HissuCode=ETKLS12-200-F10-SC0-M5-N5&Keyword=ETKLS12-200-F10-SC0-M5-N5&PNSearch=ETKLS12-200-F10-SC0-M5-N5&searchFlow=suggest2products	ETKLS12-200-F10-SC0-M5-N5	Y	y- but wrong diameter, order was wrong
+1	3	Misumi	Rod with Thread	https://de.misumi-ec.com/vona2/detail/110300209240/?HissuCode=ETKLS10-200-F10-SC0-M5-N5&Keyword=ETKLS12-200-F10-SC0-M5-N5&PNSearch=ETKLS12-200-F10-SC0-M5-N5&searchFlow=suggest2products	ETKLS10-200-F10-SC0-M5-N5	Y	y
 1	2	Reichelt	Aktives Piezo-Buzzer Modul	https://www.reichelt.de/de/de/entwicklerboards-aktives-piezo-buzzer-modul-debo-piezo-p239111.html?PROVID=2788&&r=1	DEBO PIEZO	Y	y
 1	4	Reichelt	MPR121	https://www.reichelt.de/entwicklerboards-platine-fuer-kapazitive-beruehrungssensoren-mp-debo-touch-sens2-p291455.html?&trstct=pos_0&nbc=1	DEBO TOUCH SENS2	Y	y
 1	1	Digi-Key	SSL-LX3044ID-5V	https://www.digikey.de/de/products/detail/lumex-opto-components-inc/SSL-LX3044ID-5V/270866	67-1068-ND	y	y/n

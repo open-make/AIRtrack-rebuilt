@@ -65,12 +65,22 @@ all in mm and 1 cm thick
 
 ## 2nd ordering:
 
-1x bar: https://de.rs-online.com/web/p/metallstangen-und-stabe/1368732
-1x frame screw 8mm: https://de.rs-online.com/web/p/innensechskantschrauben/4839571
-1x nuts https://de.rs-online.com/web/p/verbindungselemente/1809103
-1x screws: https://de.rs-online.com/web/p/innensechskantschrauben/2328186
-1x gaffa: https://de.rs-online.com/web/p/panzerband/1466828
-1x klebeband: https://at.rs-online.com/web/p/schaumstoff-klebebander/1848204
-3x schleifschwam: https://www.ud-shop.de/schleifschwamm-holz-metall-kwb-089121.html
-1x frame screw 6mm: https://de.rs-online.com/web/p/innensechskantschrauben/8229164
+- 1x bar: https://de.rs-online.com/web/p/metallstangen-und-stabe/1368732
+- 1x frame screw 8mm: https://de.rs-online.com/web/p/innensechskantschrauben/4839571
+- 1x nuts https://de.rs-online.com/web/p/verbindungselemente/1809103
+- 1x screws: https://de.rs-online.com/web/p/innensechskantschrauben/2328186
+- 1x gaffa: https://de.rs-online.com/web/p/panzerband/1466828
+- 1x klebeband: https://at.rs-online.com/web/p/schaumstoff-klebebander/1848204
+- 3x schleifschwam: https://www.ud-shop.de/schleifschwamm-holz-metall-kwb-089121.html
+- 1x frame screw 6mm: https://de.rs-online.com/web/p/innensechskantschrauben/8229164
+
+
+## unorderd but in Guide:
+
+- 1x https://shop.schneider-berlin.de/Technisches-Zubehoer/Installationsmaterial/Gewinde-Verschraubungen/Doppelnippel/Doppelnippel-Edelstahl-AISI-316-R-1-4-x-R-1-4.html or https://www.druckluft-fachhandel.de/doppelgewindenippel-r-1-1-4-r-1-1-4-aussengewinde-konisch-nach-iso-7-1-125705
+
+- 2x schlauchansatz https://shop.normagroup.com/de_de/norma-sv-ges-6-r-1-8-07108910006.html
+- 1x https://de.rs-online.com/web/p/pneumatik-druckentlastungsventile/2108443
+
+-1x https://www.digikey.de/de/products/detail/bud-industries/BB-32621/4156445
 
