@@ -4,12 +4,12 @@ Order Batch	Quantity	vendor	Component	Link	Product number	Y	Arrived
 1	2	Reichelt	Aktives Piezo-Buzzer Modul	https://www.reichelt.de/de/de/entwicklerboards-aktives-piezo-buzzer-modul-debo-piezo-p239111.html?PROVID=2788&&r=1	DEBO PIEZO	Y	y
 1	4	Reichelt	MPR121	https://www.reichelt.de/entwicklerboards-platine-fuer-kapazitive-beruehrungssensoren-mp-debo-touch-sens2-p291455.html?&trstct=pos_0&nbc=1	DEBO TOUCH SENS2	Y	y
 1	1	Digi-Key	SSL-LX3044ID-5V	https://www.digikey.de/de/products/detail/lumex-opto-components-inc/SSL-LX3044ID-5V/270866	67-1068-ND	y	y/n
-1	1	Digi-Key	PixyCam	https://www.digikey.de/de/products/detail/dfrobot/SEN0265/9559245	1738-1426-ND	y	
-1	1	Digi-Key	Arduino Uno	https://www.digikey.de/de/products/detail/arduino/A000066/2784006	1050-1024-ND	Y	
+1	1	Digi-Key	PixyCam	https://www.digikey.de/de/products/detail/dfrobot/SEN0265/9559245	1738-1426-ND	y	y
+1	1	Digi-Key	Arduino Uno	https://www.digikey.de/de/products/detail/arduino/A000066/2784006	1050-1024-ND	Y	y
 1	1	Reichelt	hbridge L 293 D	https://www.reichelt.de/push-pull-ttl-logik-4-kanal-treiber-0-6-aout-dip-16-l-293-d-p9661.html?search=L293D	L 293 D	Y	y
 1	2	Conrad	Acrifix 192	https://www.conrad.de/de/p/acrifix-192-acrylglaskleber-539813-100-g-539813.html	539813	Y	y
 1	2	Workshop Charite	Airtrack 480x326			Y	y
-1	1	Biozol	Silicon tube	Silicon Select tubing, type 10025-01S, 50 feet = approx. 15.2 m	10025-01S	Y	
+1	1	Biozol	Silicon tube	Silicon Select tubing, type 10025-01S, 50 feet = approx. 15.2 m	10025-01S	Y	y
 1	2	Biozol	pinch valve	https://www.lab-club.com/2-way-NC-pinch-valve-type-075P2NC12-01S	075P2NC12-01S	Y	
 1	2	Biozol	mounting clip	https://www.lab-club.com/Mounting-clip-for-type-075-valves	MC-075	Y	y
 1	2	Biozol	mounting ring	https://www.lab-club.com/Mounting-ring-for-type-075-valves	MR-075	Y	y
@@ -25,3 +25,12 @@ Order Batch	Quantity	vendor	Component	Link	Product number	Y	Arrived
 1	1	RS components	Metallstangen	https://de.rs-online.com/web/p/metallstangen-und-stabe/1243623	124-3623	Y	y
 1	4	RS components	Verbindungselemente	https://de.rs-online.com/web/p/verbindungselemente/7866071	786-6071	Y	y
 1	1	RS components	Stativarm	https://de.rs-online.com/web/p/messstander-und-stativarme/2643542	264-3524	Y	y
+2	1	RS components	Schrauben	https://de.rs-online.com/web/p/maschinenschrauben/0553560	553-560	y	y
+2	1	RS components	Schrauben	https://de.rs-online.com/web/p/maschinenschrauben/9087668	908-7668	y	y
+2	1	RS components	Schrauben	https://de.rs-online.com/web/p/maschinenschrauben/1795689	1795689	y	y
+2	1	RS components	Muttern	https://de.rs-online.com/web/p/sechskantmuttern/0560293	560-293	y	y
+2	1	RS components	Muttern	https://de.rs-online.com/web/p/sechskantmuttern/0525896	525-896	y	y
+2	1	RS components	Muttern	https://de.rs-online.com/web/p/sechskantmuttern/0560271	560-271	y	y
+2	2	SmallRig	clamp	https://smallrig.com.de/smallrig-super-clamp-w-1-4-and-3-8-thread-735.html	735	y	
+2	1	SmallRig	moveable arm	https://smallrig.com.de/smallrig-articulating-arm-9-5-inches-2066.html	2066B	y	
+2	20	Misumi	Winkel	https://de.misumi-ec.com/vona2/detail/110300437260/?HissuCode=HBLFSNF5-C-SSP	HBLFSNF5-C-SSP	y	
