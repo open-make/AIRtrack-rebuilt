@@ -1,24 +1,19 @@
 Type	Problem/ Difficulties	Details	Solution	Solved?
 Original Documentation	Unknown specifics about relation of air pressure and hole size,	Unknown type of compressor, wanted friction on the plattform, confusion about designs (smaller seem to have more holes/ bigger less holes)	"For 20 x 24 x 3cm: 300kPa (ca. 45psi) & 1 mm holes each 8mm; circular plattform 15 cm in diameter and 3 mm thick with plus maze on top 180g in weight; Workshop: all calculated need to stick to the concept"	y
 Original Documentation	Plexiglas thickness	determines the glueing surface and pressure resistance	Mostafa recommended 1 cm	y
-Original Documentation	3D Prinitng	used materials because of stiffness and weight, accessability of cad files		
 Construction	Arduino microprocessor	inside arduino uno? required for pixy cam	should be, pixy cam webiste recommends pixy cam 2: faster and smaller	y
 Ordering	Linear acuator 	on rs only 100 and 140 mm available	firgelli technologies is now acutonix 	y
 Component quality	mpr121	not reliable		
-Construction	connection from sticks to apperatur			
 Ordering	decisions regarding ordering	solenoids, where plexiglas from, which power supply		
-Construction	valve for inflowing air	unknown component		
+Construction	valve for inflowing air	unknown component	found it	y
 Construction	in the PDF for the 480x 366 box	strange lowering of the length of one 5 cm high plexiglass plate by 0,4 cm		
-Construction	unknown size of holes in upper plexiglas			
-Construction	unknown distance between screws in plexiglas box			
+Construction	unknown ball ventiles			
 Construction	unknown specifics about headfixation	whats a common head fixation, how does it vary by recording method		
 Documentations	how about sources of pictures at the website			
-construction	dropping protection needed			
 construction	exact parameters of the  platform	unknown print parameters which change surface shape and density/weight	Up to now I used the standard of the flash forge and a raft	
-construction	 steel rods a minimal to think for connector	in rods used to position do not fit in connectors, difference less than 1mm, order new rods?		
-construction	screws for nuts don t fit through the angles of the framework		order one new package for one test try, the rest I will drill bigger holes inside	
-3D printing	inner bottom edge circle print lines move to the center	trying to change non orthogonal to orthogonal edges		
-3D printing	platform wall holders need to be more stable 	relativly esay to break wall holders, even with infill 60 and , possible solution: add volume to wall holders in CAD?		
+construction	 steel rods a minimal to think for connector	in rods used to position do not fit in connectors, difference less than 1mm, order new rods?	open the angles a bit	y
+construction	screws for nuts don t fit through the angles of the framework		order one new package for one test try, the rest I will drill bigger holes inside	y
+3D printing	inner bottom edge circle print lines move to the center	trying to change non orthogonal to orthogonal edges	split up into several pieces	y
 construction	workshop only used 0,8 mm plexiglas	instead of 1 cm as mostafa suggested		
 constructions	unkown method of making the surface of plexiglas roough			
-3D printing	diameter of large platform is 30cm	flashforge has a print size of 300mm x250mm x200mm, 5 cm to less in one dimenson		
+3D printing	diameter of large platform is 30cm	flashforge has a print size of 300mm x250mm x200mm, 5 cm to less in one dimenson	split it up	y
